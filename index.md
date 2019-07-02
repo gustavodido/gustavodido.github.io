@@ -11,7 +11,9 @@ There are some things are intrinsic in my personality:
 
 ### Commmunication
 
-Usually, more introvert people have challenges when _invading_ someone else's space. So I am usually more hesitant to give you a call and I rather send you a text message or even an email before that. Let me know if you cannot help me or it will need some time.
+Usually, more introvert people have challenges when _invading_ someone else's space and prefer asynchronous communication. My preference is always a face to face conversation, but I must say that I am more hesitant to give you a call and I rather send you a text message or even an email before calling you. 
+
+#### Responsiveness
 
 On the other  hand, I will always answer you. The common "too busy" culture that many organizations have does not apply to me. If I can't answer you in a timely fashion, I will let you know that.
 
@@ -20,8 +22,6 @@ Since I have a very structured personal backlog, you are likely to be there if y
 ### What gives me energy?
 
 ### What drains my energy?
-
-### Response time
 
 ### 1:1s
 
