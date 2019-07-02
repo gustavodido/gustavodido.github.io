@@ -1,12 +1,21 @@
 ## My User Guide
 
-You can use the [editor on GitHub](https://github.com/gustavodido/gustavodido.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Values
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are some things are intrinsic in my personality:
 
-### Core values
+- **Transparency**: you can expect transparency in our working relationship. I will be honest about expectations and how things are going regardless of our positions. If there are certainties or risks, they will be shared.
+- **Work-centered**: I learnt very earlier that I will be working 1/5 or 1/6 of my life, then I must be investing this time and not wasting this time.
+- **Trust over control**: if you have good and competent people aligned with your culture, you should _truly_ empower and trust them.
+- **Action-orientation**: I will just do it, risk and cost/benefit evaluation are part of my thought process, but I will not avoid doing things because of _comfortability_.
 
 ### Commmunication
+
+Usually, more introvert people have challenges when _invading_ someone else's space. So I am usually more hesitant to give you a call and I rather send you a text message or even an email before that. Let me know if you cannot help me or it will need some time.
+
+On the other  hand, I will always answer you. The common "too busy" culture that many organizations have does not apply to me. If I can't answer you in a timely fashion, I will let you know that.
+
+Since I have a very structured personal backlog, you are likely to be there if you requested something. You will not be forgotten and feel very comfortable to ask me what is the current status.
 
 ### What gives me energy?
 
@@ -20,7 +29,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Feedback
 
+### References
+ Too busy
+ Articles
+
 <!---
+
+#core-values
+#commmunication
+#what-gives-me-energy
+#what-drains-my-energy
+#response-time
+#11s
+#meetings
+#feedback
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
