@@ -73,6 +73,7 @@ Finally, be on time. If you cannot make it, let your audience know it.
 
 I really appreciate if you could share feedbacks with me, it is a very important tool for our personal and professional growth. If you are not comfortable with that, try to tell me, so I can understand what I can change in order to make the environment more secure for you to share.
 
+If you are a feedback right now, please sent it to my personal [email](mailto://gustavo.di.domenico@gmail.com).
 
 <!---
 
