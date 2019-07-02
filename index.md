@@ -14,11 +14,26 @@ There are some things are intrinsic in my personality:
 
 Usually, more introvert people have challenges when _invading_ someone else's space and prefer asynchronous communication. My preference is always a face to face conversation, but I must say that I am more hesitant to give you a call and I rather send you a text message or even an email before calling you. 
 
+I am also very critical and ask a lot of questions. Some people feel challenged because of that and it is not my intention at all. Please, if you felt that way, share it to me.
+
 #### Responsiveness
 
 If you have a request, you probably are inside my personal backlog, so I will _always_ come back to you. Also, unless I can fufill your request in a timely fashion, I will you give a sense of when it will be done. This is really nice, but I also expect this from my colleagues. 
 
 Please, don't share the _too busy_ argument with me.  
+
+#### Crucial conversations
+
+I have been in many situations when I was required to have very _sensitive_ conversation with people:
+
+- Harassments issues inside the team
+- Laying off people
+- Underperforming team members
+- Team members with unsuitable atitude
+- Personal improvement plans
+
+In all examples above, you will be presented with the facts and I truly expect maturity and professionalism in this kind of conversations.
+
 	
 ### What gives me energy?
 
@@ -32,17 +47,32 @@ Please, don't share the _too busy_ argument with me.
 - **Politics**: let's get it done. I have seen many people concerned about everything but the company mission, vision and customers: their jobs, their roles, their power, their department and etc. I can play games very well, but they require a huge amount of energy from me. Let me invest this energy is something else.
 - **Chaos**: chaos engineering is a good practice when desiging systems. However, these things are red flags for me: no prioritization, lack of vision, no technical awareness, bad atitude, no structure in place, power disputes, unclear expectations, unclear roles, unclear administrative processess and etc.
 - **Comfortability**: the basic attrition to change, without change we can't improve. 
+- **Incompetence**: this is not related to performance. People that don't want to improve or don't have the right atitude, should not be tolerated.
+- **Careless**: it does matter if it is about the code, the product, the equipment or a single email. If you do something, do with care.
 
 ### 1:1s
 
+This is the best moment that I have to connect with you and get to know you a little bit more. If we are working together, we probably going to have a recurrent 1:1 meeting. My focus is completely on you during this session and I truly expect the same from you. In this conversation it is nice to:
+
+- Share things we like, don't like and our feelings.
+- Check if our expectations are clear and we are on the right direction.
+- Talk about anything that we want, it can be work and it can be the new puppy that is chewing the furniture.
+- Exchange _feedback_.
+
+I rather be litenning to you, but don't worry, I will take the initiative if it is needed.
+
 ### Meetings
+
+They should have an agenda (structure), someone to lead (facilitator) and a goal (possible result). Let's try to keep that in mind whenever I invite you for a meeting or you send to me an invitation. If any of those items are not clear, let's put some energy on it _before_ the meeting.
+
+Don't bring your laptop if it is not required, mute your cell phone and don't do other things. If you are bored or not interested, your should not be there.
+
+Finally, be on time. If you cannot make it, let your audience know it.
 
 ### Feedback
 
-### References
+I really appreciate if you could share feedbacks with me, it is a very important tool for our personal and professional growth. If you are not comfortable with that, try to tell me, so I can understand what I can change in order to make the environment more secure for you to share.
 
- Too busy
- Articles
 
 <!---
 
