@@ -16,18 +16,22 @@ Usually, more introvert people have challenges when _invading_ someone else's sp
 
 #### Responsiveness
 
-If you have a request, you probably are inside my personal backlog, so I will **always** come back to you. Also, unless I can fufill your request in a timely fashion, I will you give a sense of when it will be done. This is really nice, but I also expect this from my colleagues. 
+If you have a request, you probably are inside my personal backlog, so I will _always_ come back to you. Also, unless I can fufill your request in a timely fashion, I will you give a sense of when it will be done. This is really nice, but I also expect this from my colleagues. 
 
-Please, don't share the __too busy__ argument with me.  
+Please, don't share the _too busy_ argument with me.  
 	
 ### What gives me energy?
 
-- **Efficiency**: as soon as I am effective in something, I start thinking how it can be more efficient. This is also a source of many battles (from a positive perspective) that I will pick up. You probably can relate to that if you like to automate everything.
-
+- **Efficiency**: as soon as I am effective in something, I start thinking how it can be more efficient. This is also a source of many battles (from a positive perspective) that I will pick up. You probably can relate to that if you like to automate everything. Also, there is a whole section for meetings in this page...
+- **Reality**: I really enjoy to be realistic at work. The goal or the vision can be extremely ambitious, but still realistic and based on facts and not _feelings_.
+- **Hapiness**: people motivated, good energy and a really nice environment.
+- **Investment**: people should have the tools to do a good job: infrastructure, tooling, space, even good chairs if it is going to help in the motivation and productivity of the team. 
 
 ### What drains my energy?
 
 - **Politics**: let's get it done. I have seen many people concerned about everything but the company mission, vision and customers: their jobs, their roles, their power, their department and etc. I can play games very well, but they require a huge amount of energy from me. Let me invest this energy is something else.
+- **Chaos**: chaos engineering is a good practice when desiging systems. However, these things are red flags for me: no prioritization, lack of vision, no technical awareness, bad atitude, no structure in place, power disputes, unclear expectations, unclear roles, unclear administrative processess and etc.
+- **Comfortability**: the basic attrition to change, without change we can't improve. 
 
 ### 1:1s
 
@@ -36,6 +40,7 @@ Please, don't share the __too busy__ argument with me.
 ### Feedback
 
 ### References
+
  Too busy
  Articles
 
