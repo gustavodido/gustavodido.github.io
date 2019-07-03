@@ -20,7 +20,9 @@ I am also very critical and ask a lot of questions. Some people feel challenged 
 
 If you have a request, you probably are inside my personal backlog, so I will _always_ come back to you. Also, unless I can fulfill your request in a timely fashion, I will give you a sense of when it will be done. This is really nice, but I also expect this from my colleagues. 
 
-Please, don't share the _too busy_ argument with me.  
+Finally, in order to reach out to me, you can send me a message in Slack (I have it in my phone), in WhatsApp or give me a call.
+
+**Please**, don't share the _too busy_ argument with me.  
 
 #### Crucial conversations
 
