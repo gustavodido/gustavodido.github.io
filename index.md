@@ -18,7 +18,7 @@ I am also very critical and ask a lot of questions. Some people feel challenged 
 
 #### Responsiveness
 
-If you have a request, you probably are inside my personal backlog, so I will _always_ come back to you. Also, unless I can fulfill your request in a timely fashion, I will you give a sense of when it will be done. This is really nice, but I also expect this from my colleagues. 
+If you have a request, you probably are inside my personal backlog, so I will _always_ come back to you. Also, unless I can fulfill your request in a timely fashion, I will give you a sense of when it will be done. This is really nice, but I also expect this from my colleagues. 
 
 Please, don't share the _too busy_ argument with me.  
 
@@ -33,7 +33,6 @@ I have been in many situations when I was required to have very _sensitive_ conv
 - Personal improvement plans
 
 In all examples above, you will be presented with the facts and I truly expect maturity and professionalism in this kind of conversations.
-
 	
 ### What gives me energy?
 
@@ -48,18 +47,18 @@ In all examples above, you will be presented with the facts and I truly expect m
 - **Chaos**: chaos engineering is a good practice when designing systems. However, these things are red flags for me: no prioritization, lack of vision, no technical awareness, bad attitude, no structure in place, power disputes, unclear expectations, unclear roles, unclear administrative processes and etc.
 - **Comfortability**: the basic attrition to change, without change we can't improve. 
 - **Incompetence**: this is not related to performance. People that don't want to improve or don't have the right attitude, should not be tolerated.
-- **Careless**: it does matter if it is about the code, the product, the equipment or a single email. If you do something, do with care.
+- **Careless**: it does not matter if it is about the code, the product, the equipment or a single email. If you do something, do with care.
 
 ### 1:1s
 
-This is the best moment that I have to connect with you and get to know you a little bit more. If we are working together, we probably going to have a recurrent 1:1 meeting. My focus is completely on you during this session and I truly expect the same from you. In this conversation it is nice to:
+This is the best moment that I have to connect with you and get to know you a little bit more. If we are working together, we are probably going to have a recurrent 1:1 meeting. My focus is completely on you during this session and I truly expect the same from you. In this conversation it is nice to:
 
 - Share things we like, don't like and our feelings.
 - Check if our expectations are clear and we are on the right direction.
 - Talk about anything that we want, it can be work and it can be the new puppy that is chewing the furniture.
 - Exchange _feedback_.
 
-I rather be listenning to you, but don't worry, I will take the initiative if it is needed.
+I rather be listening to you, but don't worry, I will take the initiative if it is needed.
 
 ### Meetings
 
