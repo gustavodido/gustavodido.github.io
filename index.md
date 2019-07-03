@@ -5,7 +5,7 @@
 There are some things intrinsic in my personality:
 
 - **Transparency**: you can expect transparency in our working relationship. I will be honest about expectations and how things are going regardless of our positions. If there are certainties or risks, they will be shared.
-- **Work-centered**: I learnt very earlier that I will be working 1/5 or 1/6 of my life, then I must be investing this time and not wasting this time.
+- **Work-centered**: I learnt very early that I will be working 1/5 or 1/6 of my life, then I must be investing this time and not wasting this time.
 - **Trust over control**: if you have good and competent people aligned with your culture, you should _truly_ empower and trust them.
 - **Action-orientation**: I will just do it, risk and cost/benefit evaluation are part of my thought process, but I will not avoid doing things because of _comfortability_.
 - **Organization**: I work in an organizational way. I have a personal backlog where I put everything that I must do from a professional and personal perspective. I also work with a prioritization matrix driving the urgency and importance of everything that I need to do.
