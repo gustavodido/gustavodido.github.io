@@ -42,15 +42,15 @@ In all examples above, you will be presented with the facts and I truly expect m
 
 - **Efficiency**: as soon as I am effective in something, I start thinking how it can be more efficient. This is also a source of many battles (from a positive perspective) that I will pick up. You probably can relate to that if you like to automate everything. Also, there is a whole section for meetings in this page...
 - **Reality**: I really enjoy to be realistic at work. The goal or the vision can be extremely ambitious, but still realistic and based on facts and not _feelings_.
-- **Happiness**: people motivated, good energy and a really nice environment.
+- **Happiness**: people motivated, good energy, a really nice environment and helping to achieve that.
 - **Investment**: people should have the tools to do a good job: infrastructure, tooling, space, even good chairs if it is going to help in the motivation and productivity of the team. 
 
 ### What drains my energy?
 
 - **Politics**: let's get it done. I have seen many people concerned about everything but the company mission, vision and customers: their jobs, their roles, their power, their department and etc. I can play games very well, but they require a huge amount of energy from me. Let me invest this energy is something else.
-- **Chaos**: chaos engineering is a good practice when designing systems. However, these things are red flags for me: no prioritization, lack of vision, no technical awareness, bad attitude, no structure in place, power disputes, unclear expectations, unclear roles, unclear administrative processes and etc.
+- **Chaos**: These things are red flags for me: no prioritization, lack of vision, no technical awareness, bad attitude, no structure in place, power disputes, unclear expectations, unclear roles, unclear administrative processes and etc.
 - **Comfortability**: the basic attrition to change, without change we can't improve. 
-- **Incompetence**: this is not related to performance. People that don't want to improve or don't have the right attitude, should not be tolerated.
+- **Bad attiude**: People that don't want to improve, are not open or just don't have the attitude aligned with the team or culture.
 - **Careless**: it does not matter if it is about the code, the product, the equipment or a single email. If you do something, do with care.
 
 ### 1:1s
