@@ -48,9 +48,9 @@ In all examples above, you will be presented with the facts and I truly expect m
 ### What drains my energy?
 
 - **Politics**: let's get it done. I have seen many people concerned about everything but the company mission, vision and customers: their jobs, their roles, their power, their department and etc. I can play games very well, but they require a huge amount of energy from me. Let me invest this energy is something else.
-- **Chaos**: These things are red flags for me: no prioritization, lack of vision, no technical awareness, bad attitude, no structure in place, power disputes, unclear expectations, unclear roles, unclear administrative processes and etc.
+- **Chaos**: these things are red flags for me: no prioritization, lack of vision, no technical awareness, bad attitude, no structure in place, power disputes, unclear expectations, unclear roles, unclear administrative processes and etc.
 - **Comfortability**: the basic attrition to change, without change we can't improve. 
-- **Bad attiude**: People that don't want to improve, are not open or just don't have the attitude aligned with the team or culture.
+- **Bad attiude**: people that don't want to improve, are not open or just don't have the attitude aligned with the team or culture.
 - **Careless**: it does not matter if it is about the code, the product, the equipment or a single email. If you do something, do with care.
 
 ### 1:1s
