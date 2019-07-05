@@ -1,28 +1,28 @@
 ## My User Guide
 
-First impressions, judgments and assumptions are made within the first seconds or minutes when meeting someone new. If you add to that knowing someone, it can take much more time. This is my motivation behind this page, to help in this process.
+First impressions, judgments, and assumptions are made within the first seconds or minutes when meeting someone new. If you add to that knowing someone, it can take much more time. This is my motivation behind this page, to help in this process.
 
 ### Values
 
 There are some things intrinsic in my personality:
 
 - **Transparency**: you can expect transparency in our working relationship. I will be honest about expectations and how things are going regardless of our positions. If there are certainties or risks, they will be shared.
-- **Work-centered**: I learnt very early that I will be working 1/5 or 1/6 of my life, then I must be investing this time and not wasting this time.
+- **Work-centered**: I learned very early that I will be working 1/5 or 1/6 of my life, then I must be investing this time and not wasting this time.
 - **Trust over control**: if you have good and competent people aligned with your culture, you should _truly_ empower and trust them.
 - **Action-orientation**: I will just do it, risk and cost/benefit evaluation are part of my thought process, but I will not avoid doing things because of _comfortability_.
-- **Organization**: I work in an organizational way. I have a personal backlog where I put everything that I must do from a professional and personal perspective. I also work with a prioritization matrix driving the urgency and importance of everything that I need to do.
+- **Organization**: I work organizationally. I have a personal backlog where I put everything that I must do from a professional and personal perspective. I also work with a prioritization matrix driving the urgency and importance of everything that I need to do.
 
 ### Communication
 
 Usually, more introvert people have challenges when _invading_ someone else's space and prefer asynchronous communication. My preference is always a face to face conversation, but I must say that I am more hesitant to give you a call and I rather send you a text message or even an email before calling you. 
 
-I am also very critical and ask a lot of questions. Some people feel challenged because of that and it is not my intention at all. Please, if you felt that way, share it to me.
+I am also very critical and ask a lot of questions. Some people feel challenged because of that and it is not my intention at all. Please, if you felt that way, share it with me.
 
 #### Responsiveness
 
-If you have a request, you probably are inside my personal backlog, so I will _always_ come back to you. Also, unless I can fulfill your request in a timely fashion, I will give you a sense of when it will be done. This is really nice, but I also expect this from my colleagues. 
+If you have a request, you probably are inside my backlog, so I will _always_ come back to you. Also, unless I can fulfill your request in a timely fashion, I will give you a sense of when it will be done. This is nice, but I also expect this from my colleagues. 
 
-Finally, in order to reach out to me, you can send me a message in Slack (I have it in my phone), in WhatsApp or give me a call.
+Finally, to reach out to me, you can send me a message in Slack (I have it on my phone), in WhatsApp or give me a call.
 
 **Please**, don't share the _too busy_ argument with me.  
 
@@ -36,33 +36,33 @@ I have been in many situations when I was required to have very _sensitive_ conv
 - Team members with unsuitable attitude
 - Personal improvement plans
 
-In all examples above, you will be presented with the facts and I truly expect maturity, professionalism and openness in this kind of conversations. We all make mistakes...
-	
+In all examples above, you will be presented with the facts and I truly expect maturity, professionalism, and openness in this kind of conversation. We all make mistakes...
+    
 ### What gives me energy?
 
-- **Efficiency**: as soon as I am effective in something, I start thinking how it can be more efficient. This is also a source of many battles (from a positive perspective) that I will pick up. You probably can relate to that if you like to automate everything. Also, there is a whole section for meetings in this page...
+- **Efficiency**: as soon as I am effective in something, I start thinking about how it can be more efficient. This is also a source of many battles (from a positive perspective) that I will pick up. You probably can relate to that if you like to automate everything. Also, there is a whole section for meetings on this page...
 - **Reality**: I really enjoy to be realistic at work. The goal or the vision can be extremely ambitious, but still realistic and based on facts and not _feelings_.
-- **Happiness**: people motivated, good energy, a really nice environment and helping to achieve that.
+- **Happiness**: people motivated, good energy, a nice environment and helping to achieve that.
 - **Investment**: people should have the tools to do a good job: infrastructure, tooling, space, even good chairs if it is going to help in the motivation and productivity of the team. 
 
 ### What drains my energy?
 
-- **Politics**: let's get it done. I have seen many people concerned about everything but the company mission, vision and customers: their jobs, their roles, their power, their department and etc. I can play games very well, but they require a huge amount of energy from me. Let me invest this energy is something else.
-- **Chaos**: these things are red flags for me: no prioritization, lack of vision, no technical awareness, bad attitude, no structure in place, power disputes, unclear expectations, unclear roles, unclear administrative processes and etc.
+- **Politics**: let's get it done. I have seen many people concerned about everything but the company mission, vision, and customers: their jobs, their roles, their power, their department, etc. I can play games very well, but they require a huge amount of energy from me. Let me invest this energy is something else.
+- **Chaos**: these things are red flags for me: no prioritization, lack of vision, no technical awareness, bad attitude, no structure in place, power disputes, unclear expectations, unclear roles, unclear administrative processes, etc.
 - **Comfortability**: the basic attrition to change, without change we can't improve. 
-- **Bad attiude**: people that don't want to improve, are not open or just don't have the attitude aligned with the team or culture.
+- **Bad attitude**: people that don't want to improve, are not open or just don't have the attitude aligned with the team or culture.
 - **Careless**: it does not matter if it is about the code, the product, the equipment or a single email. If you do something, do with care.
 
 ### 1:1s
 
-This is the best moment that I have to connect with you and get to know you a little bit more. If we are working together, we are probably going to have a recurrent 1:1 meeting. My focus is completely on you during this session and I truly expect the same from you. In this conversation it is nice to:
+This is the best moment that I have to connect with you and get to know you a little bit more. If we are working together, we are probably going to have a recurrent 1:1 meeting. My focus is completely on you during this session and I truly expect the same from you. In this conversation, it is nice to:
 
 - Share things we like, don't like and our feelings.
-- Check if our expectations are clear and we are on the right direction.
+- Check if our expectations are clear and we are in the right direction.
 - Talk about anything that we want, it can be work and it can be the new puppy that is chewing the furniture.
 - Exchange _feedback_.
 
-I rather be listening to you, but don't worry, I will take the initiative if it is needed.
+I will rather be listening to you, but don't worry, I will take the initiative if it is needed.
 
 ### Meetings
 
@@ -74,7 +74,7 @@ Finally, be on time. If you cannot make it, let your audience know it.
 
 ### Feedback
 
-I really appreciate if you could share feedbacks with me, it is a very important tool for our personal and professional growth. If you are not comfortable with that, try to tell me, so I can understand what I can change in order to make the environment more secure for you to share.
+I appreciate it if you could share feedbacks with me, it is a very important tool for our personal and professional growth. If you are not comfortable with that, try to tell me, so I can understand what I can change to make the environment more secure for you to share.
 
 If you have any feedback, please send it to my personal [email](mailto:gustavo.di.domenico@gmail.com).
 
