@@ -1,5 +1,7 @@
 ## My User Guide
 
+First impressions, judgments and assumptions are made within the first seconds or minutes when meeting someone new. If you add to that knowing someone, it can take much more time. This is my motivation behind this page, to help in this process.
+
 ### Values
 
 There are some things intrinsic in my personality:
@@ -34,7 +36,7 @@ I have been in many situations when I was required to have very _sensitive_ conv
 - Team members with unsuitable attitude
 - Personal improvement plans
 
-In all examples above, you will be presented with the facts and I truly expect maturity and professionalism in this kind of conversations.
+In all examples above, you will be presented with the facts and I truly expect maturity, professionalism and openness in this kind of conversations. We all make mistakes...
 	
 ### What gives me energy?
 
@@ -74,7 +76,7 @@ Finally, be on time. If you cannot make it, let your audience know it.
 
 I really appreciate if you could share feedbacks with me, it is a very important tool for our personal and professional growth. If you are not comfortable with that, try to tell me, so I can understand what I can change in order to make the environment more secure for you to share.
 
-If you have any feedback, please send it to my personal [email](mailto://gustavo.di.domenico@gmail.com).
+If you have any feedback, please send it to my personal [email](mailto:gustavo.di.domenico@gmail.com).
 
 <!---
 
